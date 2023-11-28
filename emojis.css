@@ -1,21 +1,21 @@
 /* emojis */
 :is(.contents_f41bb2, .memberInner_a32223,.userPopoutInner_f545a3):has([src*="438767282328436737"])
 :is(.username_d30d99, .username__11d8c,div.profileBadges__7a7cb :last-child)::after {
-  background: url("/assets/eb5e83f8df4cf1dec344.svg") no-repeat;
+  background: url("https://discord.com/assets/eb5e83f8df4cf1dec344.svg") no-repeat;
 }
 :is(.contents_f41bb2, .memberInner_a32223,.userPopoutInner_f545a3):has([src*="946117739506982963"])
 :is(.username_d30d99, .username__11d8c,div.profileBadges__7a7cb :last-child)::after {
-  background: url("/assets/8e8ccb615538d5ac91f5.svg") no-repeat;
+  background: url("https://discord.com/assets/8e8ccb615538d5ac91f5.svg") no-repeat;
 }
 
 :is(.contents_f41bb2, .memberInner_a32223,.userPopoutInner_f545a3):has([src*="771709136051372032"])
 :is(.username_d30d99, .username__11d8c,div.profileBadges__7a7cb :last-child)::after {
-  background: url("/assets/18f68727c2c37c34ea95.svg") no-repeat;
+  background: url("https://discord.com/assets/18f68727c2c37c34ea95.svg") no-repeat;
 }
 
 :is(.contents_f41bb2, .memberInner_a32223,.userPopoutInner_f545a3):has([src*="1168944894404989031"])
 :is(.username_d30d99, .username__11d8c,div.profileBadges__7a7cb :last-child)::after {
-  background: url("/assets/b55b79fc692eaaf822bc.svg") no-repeat;
+  background: url("https://discord.com/assets/b55b79fc692eaaf822bc.svg") no-repeat;
 }
 
 

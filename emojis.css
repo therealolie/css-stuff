@@ -29,19 +29,25 @@
 .avatar__08316:is([src*="552750417201594368"],[src*="438767282328436737"], [src*="946117739506982963"], [src*="771709136051372032"], [src*="1168944894404989031"])+h3 .username_d30d99::after {
   top: -1px;
   right: -28px;
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 24px;
+  pointer-events: none;
 }
 
 .avatar__6337f:has([src*="552750417201594368"],[src*="438767282328436737"], [src*="946117739506982963"], [src*="771709136051372032"], [src*="1168944894404989031"])~.content_a6999d .username__11d8c::after {
   margin-left: 5px;
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 24px;
+  pointer-events: none;
 }
 
 .userPopoutInner_f545a3:has([src*="552750417201594368"],[src*="438767282328436737"], [src*="946117739506982963"], [src*="771709136051372032"], [src*="1168944894404989031"]) div.profileBadges__7a7cb :last-child::after {
   top: 6px;
   right: -18px;
-}
-
-:is(.contents_f41bb2, .memberInner_a32223, .userPopoutInner_f545a3):has([src*="552750417201594368"],[src*="438767282328436737"], [src*="946117739506982963"], [src*="771709136051372032"], [src*="1168944894404989031"])
-:is(.username_d30d99, .username__11d8c, div.profileBadges__7a7cb :last-child)::after {
   content: "";
   position: absolute;
   width: 18px;

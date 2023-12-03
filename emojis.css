@@ -27,6 +27,7 @@
 :is(.contents_f41bb2, .memberInner_a32223, .userPopoutInner_f545a3):has([src*="891312383149097052"]) /* blokos */
 :is(.username_d30d99, .username__11d8c, div.profileBadges__7a7cb :last-child)::after {
 	background: url("https://github.com/blokos0/anythingyouwant/blob/main/OFFSET%20ICON.png?raw=true") no-repeat;
+	background-size: 100%;
 }
 
 /* layout stuff */

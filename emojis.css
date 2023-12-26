@@ -33,7 +33,7 @@
 /* layout stuff */
 
 .avatar__08316:is([src*="552750417201594368"], [src*="438767282328436737"], [src*="946117739506982963"], [src*="771709136051372032"], [src*="1168944894404989031"], [src*="891312383149097052"])
-+h3 .username_d30d99::after {
++* .username_d30d99::after {
 	top: -1px;
 	border: 0!important;
 	background-color: transparent!important;

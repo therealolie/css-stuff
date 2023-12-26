@@ -1,3 +1,22 @@
+body::before{
+  height: 100px;
+  width: 300px;
+  content: "please change the import of \A"
+  "therealolie.github.io/css-stuff/emojis.css \A"
+  "to \A"
+  "therealolie.github.io/css-stuff/main.css \A"
+  "to use all features";
+  position: fixed;
+  z-index: 999;
+  white-space: pre-wrap;
+
+  right: 10px;
+  top: 10px;
+  background-color: #c5536c;
+  border-radius: 10px;
+  padding: 5px;
+}
+
 /* emojis */
 :is(.contents_f41bb2, .memberInner_a32223, .userPopoutInner_f545a3):has([src*="438767282328436737"]) /* olie */
 :is(.username_d30d99, .username__11d8c, div.profileBadges__7a7cb :last-child)::after {

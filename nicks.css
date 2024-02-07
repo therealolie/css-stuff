@@ -6,10 +6,11 @@
   background-size: 300%;
   -webkit-background-clip: text;
   background-clip: text;
-  animation: shine-reversed 5s linear infinite;
+  animation: shine-reversed 10s linear infinite;
   background-image: linear-gradient(90deg, #020605, #f1fffd, #020605);
 }
 
+/* olie */
 :is(.contents_f41bb2,.memberInner_a32223,.userPopoutInner_f545a3,.userProfileModalInner__7c87d):has([src*="438767282328436737"])
 :is(h3 .username_d30d99,.content_a6999d .username_d272d6,div.overlayBackground__86b78 .userText__3e8b7 > h1,div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div){
   color: transparent !important;

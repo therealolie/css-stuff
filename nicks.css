@@ -1,6 +1,6 @@
 /* DXC*VXD */
-:is(.contents_f41bb2,.memberInner_a32223,.userPopoutInner_f545a3,.userProfileModalInner__7c87d):has([src*="929074659033509889"])
-:is(h3 .username_d30d99,.content_a6999d .username_d272d6,div.overlayBackground__86b78 .userText__3e8b7 > h1,div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div){
+:is([class*="contents"],[class*="memberInner"],[class*="userPopoutInner"],[class*="userProfileModalInner"]):has([src*="929074659033509889"])
+:is(h3 [class*="username"],[class*="content"] [class*="username"],div[class*="overlayBackground"] [class*="userText"] > h1,div[class*="overlayBackground"] [class*="container"] > div:not([class*="pronouns"]) > div){
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
@@ -11,8 +11,8 @@
 }
 
 /* olie */
-:is(.contents_f41bb2,.memberInner_a32223,.userPopoutInner_f545a3,.userProfileModalInner__7c87d):has([src*="438767282328436737"])
-:is(h3 .username_d30d99,.content_a6999d .username_d272d6,div.overlayBackground__86b78 .userText__3e8b7 > h1,div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div){
+:is([class*="contents"],[class*="memberInner"],[class*="userPopoutInner"],[class*="userProfileModalInner"]):has([src*="438767282328436737"])
+:is(h3 [class*="username"],[class*="content"] [class*="username"],div[class*="overlayBackground"] [class*="userText"] > h1,div[class*="overlayBackground"] [class*="container"] > div:not([class*="pronouns"]) > div){
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;

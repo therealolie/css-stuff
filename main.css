@@ -1,5 +1,2 @@
 @import url("https://therealolie.github.io/css-stuff/emojis.css");
 @import url("https://therealolie.github.io/css-stuff/nicks.css");
-body::before{
-	display:none;
-}
